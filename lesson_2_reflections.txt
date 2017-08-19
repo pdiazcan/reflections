@@ -28,3 +28,10 @@ and the reachability of each commit.
 The result is a combination of all changes made in both branches.
 That's why we represent it the way we do: all the commits of both branches
 are parents of the new combined branch.
+
+# What are the pros and cons of Git’s automatic merging 
+# vs. always doing merges manually?
+
+The con is that merging is not alway automatic, but a big pro
+is that you can always control any change that's not obvious,
+preventing wrong code.
