@@ -21,3 +21,10 @@ I'm still figuring out all the possibilities branches add.
 
 They help you track the dependencies of the different commits, 
 and the reachability of each commit.
+
+# What is the result of merging two branches together? 
+# Why do we represent it in the diagram the way we do?
+
+The result is a combination of all changes made in both branches.
+That's why we represent it the way we do: all the commits of both branches
+are parents of the new combined branch.
