@@ -1,0 +1,4 @@
+# When would you want to use a remote repository 
+# rather than keeping all your work local?
+Specially when you are collaborating with other people.
+But also if you want to have a backup, or work in different computers.
