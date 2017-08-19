@@ -2,3 +2,10 @@
 # rather than keeping all your work local?
 Specially when you are collaborating with other people.
 But also if you want to have a backup, or work in different computers.
+
+# Why might you want to always pull changes manually rather than 
+# having Git automatically stay up-to-date with your remote repository?
+
+To control the changes made, and check if the remote version conflict 
+with the local repository. On the other hand, you may want to keep 
+work-in-progress unpublished until you're satisfied with the performance.
