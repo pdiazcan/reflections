@@ -25,3 +25,9 @@ the viability of new ideas before suggesting them to the original authors.
 # What is the benefit of having a copy 
 # of the last known state of the remote stored locally?
 To follow the progress of th project, as well as to keep up-to-date.
+
+# How would you collaborate without using Git or GitHub? 
+# What would be easier, and what would be harder?
+Probably I'd collaborate using Google Docs, but I can imagine that 
+it would be much harder for coding... It'll be much more difficult
+to find bugs, by instance.
