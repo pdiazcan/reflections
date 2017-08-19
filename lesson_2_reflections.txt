@@ -1,0 +1,11 @@
+# What happens when you initialize a repository? Why do you need to do it?
+
+It converts the directory into a repository, creating the new hidden directory .git
+It's the first step to start tracking versions...
+
+# How is the staging area different from the working directory and the repository? 
+# What value do you think it offers?
+
+The working directory includes the last version of all the files in the directory, 
+but staging area only those we choose to track and commit.
+It lets us group files logically, and work in different stages in each of those groups.
