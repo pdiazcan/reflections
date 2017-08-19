@@ -21,3 +21,7 @@ I'd use a branch to manage my workflow in a project.
 I'd use a clone to start a totally different project but based on an existing one.
 I'd use a fork to experiment with other people's projects, and maybe try 
 the viability of new ideas before suggesting them to the original authors.
+
+# What is the benefit of having a copy 
+# of the last known state of the remote stored locally?
+To follow the progress of th project, as well as to keep up-to-date.
