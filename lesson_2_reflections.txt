@@ -16,3 +16,8 @@ It lets us group files logically, and work in different stages in each of those 
 I can imagine it is helpful to add new branches for big changes you're not sure
 if they are going to work. Or for different versions, like "Lite" and "Full", for example.
 I'm still figuring out all the possibilities branches add.
+
+# How do the diagrams help you visualize the branch structure?
+
+They help you track the dependencies of the different commits, 
+and the reachability of each commit.
