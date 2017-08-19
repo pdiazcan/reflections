@@ -28,6 +28,12 @@ To follow the progress of th project, as well as to keep up-to-date.
 
 # How would you collaborate without using Git or GitHub? 
 # What would be easier, and what would be harder?
-Probably I'd collaborate using Google Docs, but I can imagine that 
+Probably I'd collaborate using Google Docs, but I can imagine that
 it would be much harder for coding... It'll be much more difficult
 to find bugs, by instance.
+
+# When would you want to make changes in a separate branch rather 
+# than directly in master? What benefits does each approach have?
+It allows different people to try different things and then share each other
+work and evaluate it before including it in the master.
+
